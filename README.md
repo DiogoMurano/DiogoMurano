@@ -15,7 +15,7 @@
 ```kotlin
 val murano = mapOf(
     "code" to arrayOf("Kotlin", "Java", "Python"),
-    "askMeAbout" to arrayOf("Backend Development", "gRPC", "Rest", "Minecraft", "Counter-strike"),
+    "askMeAbout" to arrayOf("Backend Development", "gRPC", "Rest", "Minecraft"),
     "technologies" to arrayOf(
         "frameworks" to arrayOf("Spring Boot", "Micronaut", "Ktor"),
         "databases" to arrayOf("Postgres", "Aurora", "MySQL", "DynamoDB", "MongoDB"),
