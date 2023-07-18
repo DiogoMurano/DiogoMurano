@@ -6,7 +6,7 @@
 
 [![Linkedin: Diogo Murano](https://img.shields.io/badge/-diogo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogomurano/)](https://www.linkedin.com/in/diogomurano/)
 ![GitHub followers](https://img.shields.io/github/followers/diogomurano?label=Follow&style=social)
-![Visitors: DiogoMurano](https://komarev.com/ghpvc/?username=DiogoMurano&label=Profile%20views&color=0e75b6&style=flat" alt="diogomurano")
+![Visitors: DiogoMurano](https://komarev.com/ghpvc/?username=DiogoMurano&label=Profile%20views&color=0e75b6&style=flat")
 
 
 
