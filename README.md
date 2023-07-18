@@ -46,7 +46,7 @@ val murano = mapOf(
 ![RDS](https://img.shields.io/badge/-RDS-black?style=flat-square&logo=amazonrds)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=amazondynamodb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![K8S](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white)
+![K8S](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-black?style=flat-square&logo=argo)
 ![Lambda](https://img.shields.io/badge/-AWSLambda-black?style=flat-square&logo=awslambda)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
